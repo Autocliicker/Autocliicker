@@ -11,7 +11,7 @@
 
 ---
 
-### 🦄 About Me:
+### 😺 About Me:
 - 🌱 I’m currently learning **Discord.js** and **Linux development**.
 - 💻 I love to explore **open-source** projects.
 - 🤝 Looking to collaborate on **interesting Python, Java, and C# projects**.
