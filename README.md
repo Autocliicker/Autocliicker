@@ -33,5 +33,5 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Autocliicker&theme=highcontrast&ring=ff69b4&fire=purple&currStreakLabel=ff69b4" alt="GitHub streak stats">
   
-  ![x.wtf´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Autocliicker&show_icons=true&theme=radical&icon_color=ff69b4)
+  ![Autocliicker´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Autocliicker&show_icons=true&theme=radical&icon_color=ff69b4)
 </div>
