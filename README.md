@@ -21,7 +21,7 @@
 
 ### 🛠 Tech Stack:
 <div align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-0078D7?style=for-the-badge&logo=windows" alt="Window" />
+  <img src="https://img.shields.io/badge/OS-Windows-ff69b4?style=for-the-badge&logo=windows" alt="Window" />
   <img src="https://img.shields.io/badge/Code-JavaScript-purple?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Code-Java-ff69b4?style=for-the-badge&logo=java" alt="Java" />
   <img src="https://img.shields.io/badge/Tools-VSCode-purple?style=for-the-badge&logo=visual-studio-code" alt="VSCode" />
