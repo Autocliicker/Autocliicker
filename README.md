@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/d6/29/43/d62943811acd719ea14c9cc3a254a0b8.jpg" width="200" />
+  <img src="https://i.pinimg.com/564x/d6/29/43/d62943811acd719ea14c9cc3a254a0b8.jpg](https://cdn.cdnstep.com/Oev5POIKDurX1BddZTh5/cover.thumb256.png" width="200" />
   <h1 align="center">Hi, I'm Autocliicker 🌸</h1>
   <h3 align="center">Developer | Linux Enthusiast | Coding Fanatic</h3>
   
