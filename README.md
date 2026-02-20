@@ -12,9 +12,9 @@
 ---
 
 ### 😺 About Me:
-- 🌱 I’m currently learning **Discord.js** and **Java development**.
+- 🌱 I’m currently learning **C++** and **JAVA**.
 - 💻 I love to explore **open-source** projects.
-- 🤝 Looking to collaborate on **interesting Python, Java, and C# projects**.
+- 🤝 Looking to collaborate on **interesting Python, Java, C# projects and C++ projects**.
 - 📧 Discord: **@ky.aa**.
 
 ---
