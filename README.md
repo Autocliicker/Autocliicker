@@ -28,9 +28,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats:
-<div align="center">
-  
-  ![Autocliicker´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Autocliicker&show_icons=true&theme=radical&icon_color=ff69b4)
-</div>
