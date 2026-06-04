@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <strong>Discord: @ky.aa</strong>
+  <strong><span style="color:#ff69b4;">@ky.aa</span></strong>
 </p>
